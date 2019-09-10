@@ -11,46 +11,8 @@ const IntroductionPage2 = () => {
         "name": name.split(" ")[0],
         "lastName": name.split(" ")[1],
         "dni": dni,
-		// "asegurados": [
-		// 	{
-		// 		"nombre": "Matías",
-		// 		"paterno": "Pinedo",
-		// 		"materno": "Lozano",
-		// 		"dni": "76543210",
-		// 		"nacimiento": "09/04/1998",
-		// 		"genero": "Masculino",
-		// 		"id": "1"
-		// 	}]
+
 	}
-
-    // onChange(e){
-    //     if(e.target.id === 'accept' || e.target.id === 'accept2') {
-    //         this.setState({
-    //             [e.target.id]: e.target.checked
-    //         })
-    //     }else {      
-    //         this.setState({
-    //             [e.target.id]: e.target.value
-    //         })
-    //     }
-    // }
-
-    // save(e){
-    //     if (!this.validate()){
-    //         return;
-    //     }
-    //     console.log(this.state.name)
-    //     console.log(this.state.dni)
-    // }
-
-    // validate(){
-    //     if(this.state.accept !== true){
-    //         alert('Acepte los terminos');
-    //         return false
-    //     }
-    //     return true
-        
-    // }
 
       return ( 
         <div className="section-white">
