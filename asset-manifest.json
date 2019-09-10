@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Reto-Rimac/static/css/main.bbf9445f.chunk.css",
-    "main.js": "/Reto-Rimac/static/js/main.ba6d9557.chunk.js",
-    "main.js.map": "/Reto-Rimac/static/js/main.ba6d9557.chunk.js.map",
+    "main.css": "/Reto-Rimac/static/css/main.0a5b25c7.chunk.css",
+    "main.js": "/Reto-Rimac/static/js/main.2bd399ee.chunk.js",
+    "main.js.map": "/Reto-Rimac/static/js/main.2bd399ee.chunk.js.map",
     "runtime~main.js": "/Reto-Rimac/static/js/runtime~main.df309e52.js",
     "runtime~main.js.map": "/Reto-Rimac/static/js/runtime~main.df309e52.js.map",
-    "static/js/2.8e6940c7.chunk.js": "/Reto-Rimac/static/js/2.8e6940c7.chunk.js",
-    "static/js/2.8e6940c7.chunk.js.map": "/Reto-Rimac/static/js/2.8e6940c7.chunk.js.map",
+    "static/js/2.21df4ff9.chunk.js": "/Reto-Rimac/static/js/2.21df4ff9.chunk.js",
+    "static/js/2.21df4ff9.chunk.js.map": "/Reto-Rimac/static/js/2.21df4ff9.chunk.js.map",
     "index.html": "/Reto-Rimac/index.html",
-    "precache-manifest.7dddaf416a02f41d03f429edc4b4fd37.js": "/Reto-Rimac/precache-manifest.7dddaf416a02f41d03f429edc4b4fd37.js",
+    "precache-manifest.e4e2879fac8663974b920ab282f07ba3.js": "/Reto-Rimac/precache-manifest.e4e2879fac8663974b920ab282f07ba3.js",
     "service-worker.js": "/Reto-Rimac/service-worker.js",
-    "static/css/main.bbf9445f.chunk.css.map": "/Reto-Rimac/static/css/main.bbf9445f.chunk.css.map"
+    "static/css/main.0a5b25c7.chunk.css.map": "/Reto-Rimac/static/css/main.0a5b25c7.chunk.css.map"
   }
 }
