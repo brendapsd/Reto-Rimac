@@ -1,0 +1,253 @@
+.paso{
+    position: absolute;
+    width: 77px;
+    height: 17px;
+    left: 630px;
+    top: 52px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: 0.6px;
+
+    /* #A9B1D1 */
+
+    color: #A9B1D1;
+}
+.regreso{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 590px;
+    top: 48px;
+}
+.title3{
+    position: absolute;
+    width: 278px;
+    height: 96px;
+    left: 630px;
+    top: 120px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 48px;
+    /* or 133% */
+
+    letter-spacing: -0.8px;
+
+    /* #EF3340 */
+
+    color: #494F66;
+}
+span{
+    color: #EF3340;
+}
+.subtitle3{
+    position: absolute;
+    width: 474px;
+    height: 20px;
+    left: 630px;
+    top: 232px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    /* #676F8F */
+
+    color: #676F8F;
+}
+.form-title{
+    position: absolute;
+    width: 280px;
+    height: 23px;
+    left: 630px;
+    top: 284px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 36px;
+    /* or 200% */
+
+
+    /* #494F66 */
+
+    color: #494F66;
+}
+.selec-dni2{
+    position: absolute;
+    width: 99px;
+    height: 56px;
+    left: 630px;
+    top: 331px;
+
+    /* #F7F7FA */
+
+    background: #F7F7FA;
+    /* #EDEFF5 */
+
+    border: 1px solid #EDEFF5;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.dni2{
+    position: absolute;
+    width: 278px;
+    height: 56px;
+    left: 728px;
+    top: 331px;
+
+    /* #F7F7FA */
+
+    background: #F7F7FA;
+    /* #EDEFF5 */
+
+    border: 1px solid #EDEFF5;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.email{
+    position: absolute;
+    width: 376px;
+    height: 56px;
+    left: 630px;
+    top: 403px;
+
+    /* #FFFFFF */
+
+    background: #FFFFFF;
+    /* #D4D5E8 */
+
+    border: 1px solid #D4D5E8;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.seleccionar{
+    position: absolute;
+    width: 164px;
+    height: 16px;
+    left: 630px;
+    top: 491px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+
+    /* #494F66 */
+
+   color: #494F66;
+}
+.selec{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 630px;
+    top: 531px;
+    
+    /* #D4D5E8 */
+    
+    border: 1px solid #D4D5E8;
+    box-sizing: border-box;
+}
+.selec2{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 630px;
+    top: 567px;
+
+    /* #92D66F */
+
+    border: 1px solid #92D66F;
+    box-sizing: border-box;
+}
+.label1{
+    position: absolute;
+    width: 344px;
+    height: 16px;
+    left: 662px;
+    top: 533px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+
+
+    /* #D4D5E8 */
+
+    color: #D4D5E8;
+}
+.label2{
+    position: absolute;
+    width: 344px;
+    height: 16px;
+    left: 662px;
+    top: 569px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+
+
+    /* #D4D5E8 */
+
+    color: #D4D5E8;
+}
+.modificar{
+    position: absolute;
+    width: 91px;
+    height: 16px;
+    left: 733px;
+    top: 636px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+
+    text-align: right;
+    letter-spacing: 0.2px;
+
+    /* #939DFF */
+
+    color: #939DFF;
+}
+.btn-continuar{
+    position: absolute;
+    width: 151px;
+    height: 48px;
+    left: 855px;
+    top: 619px;
+
+    /* #EF3340 */
+
+    background: #EF3340;
+    border-radius: 6px;
+    color: white; 
+}

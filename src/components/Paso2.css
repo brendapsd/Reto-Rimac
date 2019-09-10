@@ -1,0 +1,179 @@
+.titulo{
+    position: absolute;
+    width: 278px;
+    height: 48px;
+    left: 630px;
+    top: 120px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 48px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: -0.8px;
+
+    /* #EF3340 */
+
+    color: #EF3340;
+}
+.regreso2{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 590px;
+    top: 48px;
+}
+.paso-2{
+    position: absolute;
+    width: 77px;
+    height: 17px;
+    left: 630px;
+    top: 52px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: 0.6px;
+
+    /* #A9B1D1 */
+
+    color: #A9B1D1;
+}
+.subtitulo{
+    position: absolute;
+    width: 474px;
+    height: 20px;
+    left: 630px;
+    top: 184px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    /* #676F8F */
+
+    color: #676F8F;
+}
+.nombre{
+    position: absolute;
+    width: 278px;
+    height: 20px;
+    left: 630px;
+    top: 268px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    /* or 100% */
+
+
+    /* #494F66 */
+
+    color: #494F66;
+}
+.dni-fn{
+    position: absolute;
+    width: 278px;
+    height: 16px;
+    left: 630px;
+    top: 310px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 12px;
+    /* or 100% */
+
+
+    /* #676F8F */
+
+    color: #676F8F;
+}
+.btn-edit{
+    position: absolute;
+    width: 43px;
+    height: 16px;
+    left: 943px;
+    top: 282px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+    
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    
+    /* #A9B1D1 */
+    
+    color: #A9B1D1;
+}
+.btn-eliminar{
+    position: absolute;
+    width: 58px;
+    height: 16px;
+    left: 1034px;
+    top: 282px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+
+    /* #A9B1D1 */
+
+    color: #A9B1D1;
+}
+.otro-asegurado{
+    position: absolute;
+    width: 245px;
+    height: 20px;
+    left: 664px;
+    top: 378px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    /* or 114% */
+
+    letter-spacing: 0.2px;
+
+    /* #939DFF */
+
+    color: #939DFF;
+}
+.next{
+    position: absolute;
+    width: 151px;
+    height: 48px;
+    left: 953px;
+    top: 430px;
+
+    /* #EF3340 */
+
+    background: #EF3340;
+    border-radius: 6px;
+    color: white; 
+}
